@@ -1,0 +1,6 @@
+RAM free size is normal
+RAM free size is normal
+sending email because ram size is less than 300mb
+subject: warning, RAM free size is low
+sending email because ram size is less than 300mb
+subject: warning, RAM free size is low
